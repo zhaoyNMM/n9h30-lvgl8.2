@@ -1,0 +1,3 @@
+本人创建使用的是qt5.14版本，如果您使用的不是，可以先打开工程（安装有qt双击lvgl_8.pro即可选择32位）
+在工程文件夹下会生成（）build-lvgl_8-Desktop_Qt_5_xx_x_MinGW_32_bit-Debug）文件夹
+将我的(build-lvgl_8-Desktop_Qt_5_14_2_MinGW_32_bit-Debug)文件下的(SDL2.dll)文件拷贝到新文件夹下再打开，就可正常使用。
